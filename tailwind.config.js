@@ -30,7 +30,7 @@ module.exports = {
         overlay: "rgba(0, 0, 0, 0.6)",
       },
       fontFamily: {
-        pretendard: ["var(--font-pretendard)"],
+        sans : ["Pretendard", 'sans-serif'],
       },
       height: {
         screenImageList: "calc(100vh - 260px)",
